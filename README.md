@@ -1,0 +1,1 @@
+Bu Repo içindeki her şey eğitici-öğretici olması için üretilmiştir. Hiçbir şekilde hiçbir oyunun, sistemin ( vb. her şeyin. ) anti-hile sistemlerini ( vb. her şeyi ) geçmeyi, o oyuna veya uygulamaya hile yapmaya yöneltmez, kişisel olarak da önermiyorum.
