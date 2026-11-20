@@ -9,10 +9,10 @@ download: [link](https://github.com/emirattaa/Counter-Strike2/raw/refs/heads/mai
 
 patternler pointerlar vs için:
 
-      [x64dbg](https://x64dbg.com/)  (free)
+   [x64dbg](https://x64dbg.com/)  (free)
 
-      [cheat engine](https://www.cheatengine.org/)  (free)
+   [cheat engine](https://www.cheatengine.org/)  (free)
 
-      [ida free](https://hex-rays.com/ida-free)  (free)
-
-      [ida pro](https://hex-rays.com/ida-pro)  (paid)
+   [ida free](https://hex-rays.com/ida-free)  (free)
+ 
+   [ida pro](https://hex-rays.com/ida-pro)  (paid)
